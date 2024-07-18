@@ -1,0 +1,4 @@
+Minecraft AndroidTV edition is based on Minecraft
+Bedrock edition 1.5.2. It is specialy optimized
+for AndroidTV. We will update to newer
+Minecraft versions in the future.
